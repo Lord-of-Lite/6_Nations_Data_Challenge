@@ -1,6 +1,8 @@
 # 6_Nations_Data_Challenge
 Data and Python scripts to analyse 6 Nations results.
 
-Timeseries data on England's games against 6 Nations opponents.
+Timeseries data on England's games against 6 Nations opponents in CSV format.
 
-Jupyter notebooks provided.
+Python 3 code in Jupyter Notebooks provided. 
+
+Analysis includes Pandas, Numpy and Scipy packages.
